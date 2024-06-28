@@ -21,6 +21,17 @@ Nesta unidade foi continuada a aprendizagem de estruturas lineares, seguida dos 
 ### Unidade 3
 Na unidade 3, abordamos diferente problemas de ordenação. Os algoritmos de ordenação são métodos fundamentais para resolução de problemas complexos, bem como a abordagem da recursividade (estruturas recursivas) fazem parte de diferentes soluções. Nesta unidade realizamos um estudo dirigido para as diferentes estruturas de ordenação.
 
+<hr>
+
+### Unidade 4
+Na unidade 4, abordamos novos problemas de ordenação. 
+
+* Merge Sort (Ordenação por Intercalação):
+  * O método divide recursivamente a lista em metades menores, ordenando cada metade e depois combinando as partes ordenadas de volta em uma única lista ordenada. O algoritmo é eficiente e estável (não altera a ordem de elementos iguais).
+  
+* Quick Sort (Ordenação Rápida):
+  * O método divide a lista em torno de um elemento pivô e rearranja os elementos de forma que os elementos menores que o pivô estejam à esquerda e os maiores à direita. É algoritmo é eficiente na prática e amplamente utilizado.
+
 ## Repositório Principal
 Este é o repositório principal que contém todas as atividades relacionadas ao curso de Análise e Desenvolvimento de Sistemas (ADS) da UFCA. Você pode encontrar todos os materiais relacionados ao curso neste repositório central:
 * [Repositório de Atividades - Análise e Desenvolvimento de Sistemas (UFCA)](https://github.com/devitruvius/college-repository)
