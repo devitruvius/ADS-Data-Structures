@@ -33,8 +33,7 @@ Na unidade 4, abordamos novos problemas de ordenação.
   * O método divide a lista em torno de um elemento pivô e rearranja os elementos de forma que os elementos menores que o pivô estejam à esquerda e os maiores à direita. É algoritmo é eficiente na prática e amplamente utilizado.
 
 ## Repositório Principal
-Este é o repositório principal que contém todas as atividades relacionadas ao curso de Análise e Desenvolvimento de Sistemas (ADS) da UFCA. Você pode encontrar todos os materiais relacionados ao curso neste repositório central:
-* [Repositório de Atividades - Análise e Desenvolvimento de Sistemas (UFCA)](https://github.com/devitruvius/college-repository)
+* [Voltar](https://github.com/devitruvius/college-repository)
 
 ## Licença
 
